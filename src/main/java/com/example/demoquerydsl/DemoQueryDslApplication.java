@@ -10,4 +10,5 @@ public class DemoQueryDslApplication {
         SpringApplication.run(DemoQueryDslApplication.class, args);
     }
 
+
 }
